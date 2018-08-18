@@ -1,0 +1,6 @@
+C:\Users\gavin\source\repos\MomogariyaMahjong\MomogariyaMahjong\bin\Debug\MomogariyaMahjong.dll
+C:\Users\gavin\source\repos\MomogariyaMahjong\MomogariyaMahjong\bin\Debug\MomogariyaMahjong.pdb
+C:\Users\gavin\source\repos\MomogariyaMahjong\MomogariyaMahjong\obj\Debug\MomogariyaMahjong.csprojResolveAssemblyReference.cache
+C:\Users\gavin\source\repos\MomogariyaMahjong\MomogariyaMahjong\obj\Debug\MomogariyaMahjong.csproj.CoreCompileInputs.cache
+C:\Users\gavin\source\repos\MomogariyaMahjong\MomogariyaMahjong\obj\Debug\MomogariyaMahjong.dll
+C:\Users\gavin\source\repos\MomogariyaMahjong\MomogariyaMahjong\obj\Debug\MomogariyaMahjong.pdb
